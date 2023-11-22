@@ -9,8 +9,8 @@ const colors = {
     inactive: "#999999",
     inactive2: "#717171",
     "secondary-alt": "#680444",
-    "accent-alt": "leniar-gradient(#FC820B,#CA6809)",
-    "primary-button": "leniar-gradient(#73044C,#4A0236)",
+    "accent-alt": "linear-gradient(to right, #FC820B,#CA6809);",
+    "primary-button": "linear-gradient(to right, #73044C,#4A0236);",
     "primary-card": "#F5F3F3",
     "success-container": "#DAF8E6",
     "success-container-accent": "#22AD5C",
@@ -33,7 +33,7 @@ const colors = {
     "on-primary": "#F0F0F0",
     "primary-card": "#222222",
     "on-secondary": "#333333",
-    "primary-button": "leniar-gradient(#AB6894,#9D4F82)",
+    "primary-button": "linear-gradient(to right, #AB6894,#9D4F82);",
   },
 };
 
