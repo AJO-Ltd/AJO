@@ -39,7 +39,7 @@ export const Button = ({
   return (
     <button
       type="button"
-      className={"bg-black text-red-400 p-3 rounded-sm"}
+      className={"bg-light-secondary text-red-400 p-3 rounded-sm"}
       {...props}
     >
       {label}
