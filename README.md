@@ -1,7 +1,7 @@
 ![](public/banner.png)
 
 <div align="center">
-  <h1>AJO - Community based market place </h1>
+  <h1>AJO - Community-Backed Market Place </h1>
   <a href="#overview">Overview</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
   <a href="#resources">Dependencies</a>
